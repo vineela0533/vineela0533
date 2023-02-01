@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @vineela0533
-- 👀 I’m interested in ...programming
+- 👀 I’m interested in ...programming, and Visualization.
 - 🌱 I’m currently learning ... data science course
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on big data
 -
-- 📫 How to reach me ...
+- 📫 My mail id: Vineela.533@gmail.com
 
-<!---
-vineela0533/vineela0533 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
